@@ -181,4 +181,11 @@ L'exercice **3** sera plus personnel car je noterai chaque collaborateur différ
 
 **Bon courage :)**
 
+Nom des étudiants :
+* FERREIRA Jiullian
+* BERQUER Théo
+* BOUZOUBAA Yassine
+
+Date du jour : 10/02/2023
+
 
