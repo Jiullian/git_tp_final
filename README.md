@@ -36,12 +36,12 @@ Dans ce second exercice, vous allez modifier les lignes qui suivent dans le READ
 
 > Ce sont ces informations qui me permettront de vous noter, si vous ne vous présentez pas ici, je ne pourrais pas vous noter :)
 
-Noms des étudiants : 
-* Nom Prénom
-* Nom Prénom
-* Nom Prénom
+Nom des étudiants :
+* FERREIRA Jiullian
+* BERQUER Théo
+* BOUZOUBAA Yassine
 
-Date du jour : 00/00/0000
+Date du jour : 10/02/2023
 
 Tout est ok ? 
 Faites donc un **commit** et **pushez** moi tout ça sur master (sur **votre** dépôt donc, puisque vous l'avez forké).
@@ -181,11 +181,5 @@ L'exercice **3** sera plus personnel car je noterai chaque collaborateur différ
 
 **Bon courage :)**
 
-Nom des étudiants :
-* FERREIRA Jiullian
-* BERQUER Théo
-* BOUZOUBAA Yassine
-
-Date du jour : 10/02/2023
 
 
