@@ -180,6 +180,3 @@ L'exercice **3** sera plus personnel car je noterai chaque collaborateur différ
 > Attention, étant donné que les exercices **1** et **2** sont très simples, je serai stricte sur le respect des bonnes pratiques pour les exercices **3** et **4**
 
 **Bon courage :)**
-
-
-
